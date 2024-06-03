@@ -5,7 +5,7 @@ import fs from 'fs'
 
 //Owner Numbers 
 global.owner = [
-  ['923135673658', 'wasi', false],
+  ['94713317339', 'wasi', false],
   [''], 
   [''],
 ]
@@ -37,10 +37,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝗪𝗔𝗦𝗜-𝗠𝗗'
+global.botname = '𝗪𝗔𝗦𝗜-𝗠𝗗☠️⚠️'
 global.princebot = '🛡️𝗪𝗔𝗦𝗜 𝗧𝗘𝗖𝗛🛡️'
-global.packname = '𝗪𝗔𝗦𝗜♥️' 
-global.author = '𝗧𝗘𝗖𝗛♥️' 
+global.packname = '𝗪𝗔𝗦𝗜🛡️❗' 
+global.author = '𝗧𝗘𝗖𝗛🫀' 
 global.princeig = 'https://www.instagram.com' 
 global.princegp = 'https://chat.whatsapp.com/IhDUWhpX6OWI5q0cMh7tEj'
 global.menuvid = ''
@@ -49,12 +49,12 @@ global.princeyt = 'https://youtube.com/@wasitech1'
 global.Princelog = 'https://i.imgur.com/ujxeU8g.jpeg'
 global.thumb = fs.readFileSync('./Assets/wasi.png')
 
-global.wait = '*♻️ _𝙶𝙴𝚃𝚃𝙸𝙽𝙶 𝚈𝙾𝚄𝚁 𝙵𝙸𝙻𝙴 𝚆𝙰𝙸𝚃..._*\n*▰▰▰▱▱▱▱▱*'
-global.imgs = '*🖼️ _𝙶𝙴𝚃𝚃𝙸𝙽𝙶 𝚈𝙾𝚄𝚁 ɪᴍᴀɢᴇs 𝚆𝙰𝙸𝚃..._*\n*▰▰▰▱▱▱▱▱*'
-global.rwait = '♻️'
+global.wait = '*🍫⏰ _𝙶𝙴𝚃𝚃𝙸𝙽𝙶 𝚈𝙾𝚄𝚁 𝙵𝙸𝙻𝙴 𝚆𝙰𝙸𝚃..._*\n*▰▰▰▱▱▱▱▱*'
+global.imgs = '*✔️⚙️ _𝙶𝙴𝚃𝚃𝙸𝙽𝙶 𝚈𝙾𝚄𝚁 ɪᴍᴀɢᴇs 𝚆𝙰𝙸𝚃..._*\n*▰▰▰▱▱▱▱▱*'
+global.rwait = '♻🛡️'
 global.dmoji = '🤭'
-global.done = '✅'
-global.error = '❌' 
+global.done = '✅⚒️'
+global.error = '❌❗' 
 global.xmoji = '🌀' 
 
 global.multiplier = 69 
